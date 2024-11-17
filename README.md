@@ -1,6 +1,6 @@
 # Cpp_King 的个人页面 [\[入驻**GitHub**！\]](https://github.com/Cpp-King)
 
-## 一、$\textup{\textbf{Globe Bintree Studio}}$ 对外公告
+## 一、Globe Bintree Studio 对外公告
 
 **重要：** 如果你**是** $\textup{\textbf{Globe Bintree Studio}}$ 的成员，请最好跳过本段！
 
